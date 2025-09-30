@@ -4,7 +4,7 @@ This project implements a complete Machine Learning workflow—from data loading
 
 ---
 
-## 💡 What It Does 
+## 💡 What It Does (The What)
 
 This Python script builds and evaluates a **Logistic Regression** model to classify whether a credit card application will be approved.
 
@@ -18,7 +18,7 @@ The process includes:
 
 ---
 
-## 🛠️ How to Use It 
+## 🛠️ How to Use It (The How)
 
 ### Prerequisites
 
@@ -37,3 +37,47 @@ To run this script, you need a Python environment with the following libraries i
     ```
 
 2.  **Ensure Dataset is Present:**
+    The script expects the dataset file to be located at `datasets/cc_approvals.data`. Make sure this file path is correct relative to where you run the script.
+
+3.  **Install Dependencies:**
+    ```bash
+    pip install pandas numpy scikit-learn
+    ```
+
+### Running the Script
+
+Execute the Python file from your terminal:
+
+```bash
+python cc_predictor.py
+To run this script, you need a Python environment with the following libraries installed:
+
+* **Pandas**
+* **NumPy**
+* **Scikit-learn**
+
+### Setup and Installation
+
+1.  **Clone the Repository** (or save the code as a Python file, e.g., `credit.py`):
+    ```bash
+    git clone [your-repo-url]
+    cd [your-repo-name]
+    ```
+
+2.  **Ensure Dataset is Present:**
+    The script expects the dataset file to be located at `datasets/cc_approvals.data`. Make sure this file path is correct relative to where you run the script.
+
+3.  **Install Dependencies:**
+    ```bash
+    pip install pandas numpy scikit-learn
+    ```
+
+### Running the Script
+
+Execute the Python file from your terminal:
+
+```bash
+python credit.py
+
+
+
