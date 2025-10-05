@@ -4,7 +4,7 @@ This project implements a complete Machine Learning workflow—from data loading
 
 ---
 
-## 💡 What It Does (The What)
+## 💡 What It Does 
 
 This Python script builds and evaluates a **Logistic Regression** model to classify whether a credit card application will be approved.
 
@@ -18,7 +18,7 @@ The process includes:
 
 ---
 
-## 🛠️ How to Use It (The How)
+## 🛠️ How to Use It 
 
 ### Prerequisites
 
